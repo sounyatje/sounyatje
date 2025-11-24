@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats-nu-two-82.vercel.app/api/top-langs?username=sounyatje&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
-
 <img align="right" height="150" src="https://media.tenor.com/WDX559D8F_kAAAAi/wow-%E4%BA%86%E8%A7%A3.gif"  />
 
 ###
