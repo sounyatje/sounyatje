@@ -12,6 +12,10 @@
 
 ###
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=sounyatje&theme=darkhub)
+
+###
+
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" alt="javascript logo" />
   <img width="12" />
