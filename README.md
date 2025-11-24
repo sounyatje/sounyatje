@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/WDX559D8F_kAAAAi/wow-%E4%BA%86%E8%A7%A3.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/WDX559D8F_kAAAAi/wow-%E4%BA%86%E8%A7%A3.gif"  />
 
 ###
 
