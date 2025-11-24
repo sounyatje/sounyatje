@@ -13,6 +13,9 @@
 
 ### 
 
+<img src="https://github.com/sounyatje/monrepo/assets/image.jpg" height="250" />
+
+###
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" alt="javascript logo" />
   <img width="12" />
