@@ -13,7 +13,7 @@
 
 ### 
 
-<img src="https://github.com/sounyatje/monrepo/assets/image.jpg" height="250" />
+<img src="https://github-readme-stats.vercel.app/api?username=sounyatje&rank_icon=github" />
 
 ###
 <div align="left">
