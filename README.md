@@ -9,7 +9,7 @@
 
 ###
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sounyatje&theme=darkhub)
+![Trophies](https://github-profile-trophy-eight-xi.vercel.app/?username=sounyatje&theme=darkhub)
 
 ###
 <div align="left">
