@@ -37,8 +37,9 @@
   <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" height="30" alt="cypress logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.png" height="30" alt="jest logo" />
+  <img width="12" />
+  <img src="https://github.com/MarioTerron/logo-images/raw/master/logos/expressjs.png" height="30" alt="expressjs logo" />
 </div>
-
 
 
 ###
