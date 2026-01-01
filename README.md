@@ -32,7 +32,13 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" alt="typescript logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="30" alt="redux logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" height="30" alt="cypress logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.png" height="30" alt="jest logo" />
 </div>
+
 
 
 ###
