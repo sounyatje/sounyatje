@@ -4,7 +4,7 @@
 <div align="left">
   <img src="https://github-readme-stats-nu-two-82.vercel.app/api?username=sounyatje&theme=dracula" height="150" />
   <img src="https://github-readme-stats-nu-two-82.vercel.app/api/top-langs?username=sounyatje&layout=compact&theme=dracula" height="150" />
-  <img align="right" height="200" width="280" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"  />
+  <img align="right" height="180" width="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"  />
 </div>
 
 ###
