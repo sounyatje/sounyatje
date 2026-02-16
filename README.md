@@ -8,9 +8,11 @@
 </div>
 
 ###
-[![trophy](https://github-profile-trophy.vercel.app/?username=sounyatje&theme=onedark&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophies](https://github-profile-trophy-gxm3-3wzchtklv-sounyas-projects.vercel.app/?username=sounyatje&theme=onedark&column=8&margin-w=10&margin-h=10&v=1)](https://github.com/sounyatje/github-profile-trophy)
 
 ###
+
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" alt="javascript logo" />
   <img width="12" />
