@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Sounya and I'm a frontend developer, from Belgium</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats-nml25hkx3-sounyas-projects.vercel.app/api?username=sounyatje&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-nml25hkx3-sounyas-projects.vercel.app/api/top-langs?username=sounyatje&layout=compact&theme=dracula" height="150" />
+ <img src="https://github-readme-stats-nml25hkx3-sounyas-projects.vercel.app/api?username=sounyatje&theme=dracula&v=1" height="150" />
+  <img src="https://github-readme-stats-nml25hkx3-sounyas-projects.vercel.app/api/top-langs?username=sounyatje&layout=compact&theme=dracula&v=1" height="150" />
   <img align="right" height="180" width="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
 </div>
 
