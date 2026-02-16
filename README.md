@@ -10,7 +10,7 @@
 ###
 
 [![trophies](https://github-trophies.vercel.app/?username=sounyatje&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/lucthienphong1120/github-trophies)
-  <img align="right" height="200" width="230" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
+  <img align="right" height="200" width="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
 
 ###
 
