@@ -4,16 +4,18 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sounyatje&show_icons=true&theme=dracula" height="150" />
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sounyatje&theme=dracula" height="150" />
-  <img align="right" height="180" width="200" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
+
 </div>
 
 ###
 
 [![trophies](https://github-trophies.vercel.app/?username=sounyatje&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/lucthienphong1120/github-trophies)
+  <img align="right" height="200" width="230" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" />
 
 ###
 
 <img src="https://gh-stats.deoxy.dev/api/top-langs/?username=sounyatje&theme=dracula&layout=compact&langs_count=8" height="150" />
+
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" alt="javascript logo" />
