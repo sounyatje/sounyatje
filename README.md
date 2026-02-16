@@ -9,9 +9,11 @@
 
 ###
 
-[![trophies](https://github-profile-trophy-gxm3-3wzchtklv-sounyas-projects.vercel.app/?username=sounyatje&theme=onedark&column=8&margin-w=10&margin-h=10&v=1)](https://github.com/sounyatje/github-profile-trophy)
+[![trophies](https://github-trophies.vercel.app/?username=sounyatje&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/lucthienphong1120/github-trophies)
 
 ###
+
+<img src="https://gh-stats.deoxy.dev/api/top-langs/?username=sounyatje&theme=dracula&layout=compact&langs_count=8" height="150" />
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" alt="javascript logo" />
