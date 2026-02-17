@@ -45,6 +45,12 @@
   <img src="https://raw.githubusercontent.com/facebook/jest/main/website/static/img/jest.png" height="30" alt="jest logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" alt="expressjs logo" />
+ <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" height="30" alt="sql logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/oracle.png" height="30" alt="oracle db logo" />
 </div>
 
 
